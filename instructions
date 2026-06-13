@@ -1,0 +1,5 @@
+Flash esp32cam/camera_stream.ino
+Connect ESP32-CAM to Wi-Fi
+Note the stream URL
+Update attendance.py
+Run python attendance.py
