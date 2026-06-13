@@ -1,2 +1,20 @@
-# Face-Recognition-based-Anti-Bunking-Attendance-System
-Its a Face Recognition System 
+# Face Recognition Attendance System
+
+## Overview
+A smart attendance system built using an ESP32-CAM and Python face recognition.
+
+## Features
+- Face recognition using pre-enrolled images
+- Automatic entry/exit detection
+- CSV/Excel attendance logging
+- Direction tracking through doorway monitoring
+
+## Technologies
+- ESP32-CAM
+- Python
+- OpenCV
+- face_recognition
+- Pandas
+
+## How It Works
+The ESP32-CAM streams video to a computer. The system identifies faces using stored facial encodings and records attendance automatically.
