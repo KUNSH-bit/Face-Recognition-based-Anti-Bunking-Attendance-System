@@ -17,4 +17,4 @@ A smart attendance system built using an ESP32-CAM and Python face recognition.
 - Pandas
 
 ## How It Works
-The ESP32-CAM streams video to a computer. The system identifies faces using stored facial encodings and records attendance automatically.
+The ESP32-CAM streams video to a computer. The system identifies faces using stored photots and records attendance automatically to an exel file.
